@@ -1,2 +1,1 @@
-from core.engine import init_engine
-print(init_engine())
+print('Professional System Online')
